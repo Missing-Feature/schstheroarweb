@@ -1,0 +1,19 @@
+body {
+    background-color: white;
+}
+.topnav {
+    background-color: #1373BD;
+    overflow: hidden;
+}
+.topnav a {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover { /*need to change the color for hover*/
+    color: #57a4df; 
+}
